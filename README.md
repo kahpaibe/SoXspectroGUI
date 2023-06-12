@@ -2,6 +2,7 @@
 A PyQt GUI app to generate spectrograms using SoX.
 
 ## Requirements
+A valid SoX installation is required.
 This script uses several libraries. Be sure to install:
  - PyQt5
  - winsound
@@ -9,6 +10,7 @@ This script uses several libraries. Be sure to install:
  - cv2
 
 ## Usage
+By default, SoX is assumed to be in *Path* environment variable. One may however specify the full path to the *sox.exe* executable in the global variables.
 Two versions of this script are available.
 
 #### SoXspectroGUI
