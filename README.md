@@ -1,7 +1,7 @@
 # SoXspectroGUI
 A PyQt GUI app to generate spectrograms using SoX.
 Supports reading audio files with paths containing non ascii characters. 
-Highly infininshed.
+Highly infinished.
 
 ## Requirements
 A valid SoX installation is required.
